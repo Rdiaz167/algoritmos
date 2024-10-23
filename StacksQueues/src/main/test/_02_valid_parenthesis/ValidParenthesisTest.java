@@ -1,3 +1,10 @@
 public class ValidParenthesisTest {
-   public
+
+   @Test
+  public void queueWithStacksTest() {
+    ValidParenthesis validParenthesis = new ValidParenthesis();
+
+    assertTrue(validParenthesis.isValid("([]){}"));
+    assertFalse(validParenthesis.isValid("({)}"));
+  }   
 }
