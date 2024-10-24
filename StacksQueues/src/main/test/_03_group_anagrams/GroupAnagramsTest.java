@@ -15,5 +15,10 @@ public class GroupAnagramsTest {
     assertTrue(containsAll(anagrams, List.of("arresto", "rastreo")));
   }
 
-  
+  private boolean containsAll(List<List<String>> anagrams, List<String> group) {
+    for (List<String> g : anagrams) {
+      if (g.containsAll(group)) return true;
+    }
+    return false;
+  }
 }
