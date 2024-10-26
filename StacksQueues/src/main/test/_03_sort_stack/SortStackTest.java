@@ -11,6 +11,9 @@ public class SortStackTest {
     stack.push(4);
     Deque<Integer> sortedStack = sortStack.sort(stack);
 
-    
+    assertEquals(1, sortedStack.pop());
+    assertEquals(2, sortedStack.pop());
+    assertEquals(4, sortedStack.pop());
+    assertEquals(5, sortedStack.pop());
   }
 }
