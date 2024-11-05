@@ -24,5 +24,3 @@ public class MergeTwoSortedListsTest {
     assertEquals(6, result.next.next.next.next.next.next.value);
   }
 }
-
-falta nodo
