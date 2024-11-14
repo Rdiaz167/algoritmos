@@ -25,6 +25,5 @@ public class SortStack {
             sortedStack.push(element);
         }
         return sortedStack;
-    }
-    
+    }    
 }
