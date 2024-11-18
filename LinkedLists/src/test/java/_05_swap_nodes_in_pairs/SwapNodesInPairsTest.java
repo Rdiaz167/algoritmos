@@ -1,5 +1,7 @@
 package _05_swap_nodes_in_pairs;
 
+import org.testng.annotations.Test;
+
 public class SwapNodesInPairsTest {
 
     @Test
