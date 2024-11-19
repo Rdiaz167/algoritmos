@@ -2,6 +2,8 @@ package _05_swap_nodes_in_pairs;
 
 import org.testng.annotations.Test;
 
+import _00_linkedlist.Node;
+
 public class SwapNodesInPairsTest {
 
     @Test
