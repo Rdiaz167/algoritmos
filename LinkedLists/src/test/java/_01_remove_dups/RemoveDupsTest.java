@@ -1,5 +1,9 @@
 package _01_remove_dups;
 
+import org.testng.annotations.Test;
+
+import _00_linkedlist.Node;
+
 public class RemoveDupsTest {
    
   @Test
