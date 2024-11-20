@@ -1,9 +1,13 @@
 package _02_merge_two_sorted_list;
 
+import org.testng.annotations.Test;
+
+import _00_linkedlist.Node;
+
 public class MergeTwoSortedListsTest {
 
     @Test
-  public void mergeTwoSortedListsTest() {
+    public void mergeTwoSortedListsTest() {
     MergeTwoSortedLists merge = new MergeTwoSortedLists();
     Node list1 = new Node(1);
     list1.next = new Node(2);
