@@ -1,5 +1,7 @@
 package _03_nth_node_to_last;
 
+import org.testng.annotations.Test;
+
 public class NthNodeToLastTest {
 
     @Test
