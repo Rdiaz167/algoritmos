@@ -1,6 +1,8 @@
 
 import org.junit.jupiter.api.Test;
 
+import _02_valid_parenthesis.ValidParenthesis;
+
 public class ValidParenthesisTest {
 
    @Test
