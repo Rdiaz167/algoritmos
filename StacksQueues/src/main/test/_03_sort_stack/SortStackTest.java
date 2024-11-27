@@ -1,4 +1,6 @@
 
+import java.util.Deque;
+
 import org.junit.jupiter.api.Test;
 
 public class SortStackTest {
