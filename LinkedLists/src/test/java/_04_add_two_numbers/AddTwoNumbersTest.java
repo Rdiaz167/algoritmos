@@ -1,5 +1,6 @@
 package _04_add_two_numbers;
 
+import static org.testng.Assert.assertEquals;
 import org.testng.annotations.Test;
 
 import _00_linkedlist.Node;
