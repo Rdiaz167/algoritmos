@@ -1,5 +1,6 @@
 package _01_remove_dups;
 
+import static org.testng.Assert.assertEquals;
 import org.testng.annotations.Test;
 
 import _00_linkedlist.Node;
