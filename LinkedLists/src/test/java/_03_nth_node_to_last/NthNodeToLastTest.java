@@ -1,5 +1,6 @@
 package _03_nth_node_to_last;
 
+import static org.testng.Assert.assertEquals;
 import org.testng.annotations.Test;
 
 import _00_linkedlist.Node;
