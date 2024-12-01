@@ -1,5 +1,6 @@
 package _02_merge_two_sorted_list;
 
+import static org.testng.Assert.assertEquals;
 import org.testng.annotations.Test;
 
 import _00_linkedlist.Node;
