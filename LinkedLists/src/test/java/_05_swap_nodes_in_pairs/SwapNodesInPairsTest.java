@@ -1,5 +1,6 @@
 package _05_swap_nodes_in_pairs;
 
+import static org.testng.Assert.assertEquals;
 import org.testng.annotations.Test;
 
 import _00_linkedlist.Node;
