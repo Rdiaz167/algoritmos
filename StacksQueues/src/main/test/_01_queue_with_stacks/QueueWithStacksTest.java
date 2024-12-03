@@ -1,6 +1,8 @@
 
 import org.junit.jupiter.api.Test;
 
+import _01_queue_with_stacks.QueueWithStacks;
+
 public class QueueWithStacksTest {
 
     @Test
