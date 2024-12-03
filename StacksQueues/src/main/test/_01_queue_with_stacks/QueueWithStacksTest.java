@@ -1,4 +1,5 @@
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 
 import _01_queue_with_stacks.QueueWithStacks;
