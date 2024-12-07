@@ -5,7 +5,7 @@ import java.util.Map;
 
 
 //Dado un array de números enteros y un target, retorna los índices de dos
-// números para los que la suma de ambos sea igual al target.
+//números para los que la suma de ambos sea igual al target.
 
 // Puedes asumir que hay solamente una solución.
 
