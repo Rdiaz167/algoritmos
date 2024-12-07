@@ -18,7 +18,7 @@ public class IsUnique {
         Set<Character> characters = new HashSet<>();
 
         for(Character c: s.toCharArray()) {
-            if(characters.contains(c)) return false;;
+            if(characters.contains(c)) return false;
             characters.add(c);
         }    
         return true;        
