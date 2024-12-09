@@ -46,7 +46,7 @@ public class ZeroMatrix {
       }
       
       
-      //COMPRUEBA SI LA PRIMERA COLUMNA CONTIENE 0
+      //COMPRUEBA SI LA PRIMERA COLUMNA CONTIENE  0
       private boolean hasFirstColAnyZero(int[][] matrix) {
         for(int i = 0; i < matrix.length; i++) {
           if(matrix[i][0] == 0) return true;
