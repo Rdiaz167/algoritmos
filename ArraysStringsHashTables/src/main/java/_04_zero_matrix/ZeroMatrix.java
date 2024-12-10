@@ -1,7 +1,7 @@
 package _04_zero_matrix;
 
 
-// Dada una matriz, escribe un algoritmo para establecer ceros en la fila F y columna C si existe un
+// Dada una matriz, escribe un algoritmo  para establecer ceros en la fila F y columna C si existe un
 // 0 en la celda F:C
  
 // Ejemplo:
