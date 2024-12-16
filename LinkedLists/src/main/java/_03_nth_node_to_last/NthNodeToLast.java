@@ -16,7 +16,7 @@ public class NthNodeToLast {
         Node p1 = head;
         Node p2 = head;
 
-        // Avanzamos n posiciones con el primer puntero
+        //Avanzamos n posiciones con el primer puntero
         for(int i = 0; i < n; i++) {
             if(p1 == null) {
                 return null;
