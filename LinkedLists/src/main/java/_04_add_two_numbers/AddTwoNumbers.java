@@ -7,7 +7,7 @@ import _00_linkedlist.Node;
  * dos enteros positivos. Las listas están en posición invertida .
  *
  * Ejemplo:
- *  Input: 1->2->4, 5->2->8
+ *  Input: 1-> 2->4, 5->2->8
  *  Output: 6->4->2->1
  *  6421 + 825 = 7246 
  */
