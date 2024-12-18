@@ -9,7 +9,7 @@ import _00_linkedlist.Node;
  * Ejemplo:
  *  Input: 1-> 2->4, 5->2->8
  *  Output: 6->4->2->1
- *  6421 + 825 = 7246 
+ *  6421 + 825 = 7 2 4 6 
  */
 
 public class AddTwoNumbers {
