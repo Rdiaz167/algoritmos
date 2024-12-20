@@ -4,7 +4,7 @@ import _00_linkedlist.Node;
 
 /*
  * Escribe un algoritmo que intercambie parejas de nodos adyacentes sin
- * modificar el valor interno de los nodos.
+ * modificar el valor interno de los nodos .
  *
  * Ejemplo:
  *  Input: 1->2->4->6->8
