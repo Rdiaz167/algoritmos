@@ -14,6 +14,7 @@ import java.util.Deque;
  * Ejemplo 2:
  *  Input: "({)}"
  *  Output: false
+ * 
  */
 
 public class ValidParenthesis {
@@ -36,4 +37,5 @@ public class ValidParenthesis {
         if(c == '[') return ']';
         return 0;
       }
+      
 }
