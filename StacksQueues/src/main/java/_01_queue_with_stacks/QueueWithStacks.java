@@ -39,5 +39,6 @@ public class QueueWithStacks {
 
   public int size() {
     return firstStack.size() + secondStack.size();
-  }      
+  }   
+     
 }
