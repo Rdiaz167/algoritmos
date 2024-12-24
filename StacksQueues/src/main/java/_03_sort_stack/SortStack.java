@@ -10,7 +10,7 @@ import java.util.Deque;
  *
  * Ejemplo:
  *  Input: (tope) 5->1->4->2
- *  Output: (tope) 1->2->4->5
+ *  Output: (tope ) 1->2->4->5
  */
 
 public class SortStack {
