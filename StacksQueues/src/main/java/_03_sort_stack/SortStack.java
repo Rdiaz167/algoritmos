@@ -5,7 +5,7 @@ import java.util.Deque;
 
 /*
  * Ordena un Stack de forma que los elementos más pequeños queden en el tope del Stack.
- * Puedes usar un Stack adicional, pero no está permitido copiar los elementos a otra
+ * Puedes usar un Stack adicional, pero no  está permitido copiar los elementos a otra
  * estructura de datos.
  *
  * Ejemplo:
