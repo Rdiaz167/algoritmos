@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 
 /*
- * Ordena un Stack de forma que los  elementos más pequeños queden en el tope del Stack.
+ * Ordena un Stack   de forma que los  elementos más pequeños queden en el tope del Stack .
  * Puedes usar un Stack adicionalv, pero no  está permitido copiar los elementos a otra
  * estructura de datos.
  *
