@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 
 /*
- * ¿Cómo diseñarías un Stack que además de las operaciones de push y pop también
+ * ¿Cómo diseñarías un  Stack que además de las operaciones de push y pop también
  * contase con una operación para obtener el mínimo ?
  */
 
