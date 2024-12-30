@@ -12,7 +12,7 @@ import java.util.Map;
 // Ejemplo 1:
 // Input: nums = [9,2,5,6], target = 7
 // Output: [1,2]
-// Explicación: nums[1] + nums[2] == 7, devolvemos [1, 2].
+// Explicación: nums[1] + nums[2] == 7, devolvemos [1, 2]
 
 // Ejemplo 2:
 // Input: nums = [9,2,5,6], target = 100
