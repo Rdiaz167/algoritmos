@@ -37,7 +37,7 @@ public class ZeroMatrix {
         }
       }
       
-      // COMPRUEBA SI  LA PRIMERA FILA CONTIENE 0
+      // COMPRUEBA SI LA PRIMERA FILA CONTIENE 0
       private boolean hasFirstRowAnyZero(int[][] matrix) {
         for(int i = 0; i < matrix[0].length; i++) {
           if(matrix[0][i] == 0) return true;
