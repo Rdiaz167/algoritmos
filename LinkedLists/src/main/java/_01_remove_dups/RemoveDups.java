@@ -4,7 +4,7 @@ import java.util.HashSet;
 
 import _00_linkedlist.Node;
 
-// Escribe un algoritmo para eliminar los elementos duplicados en una Lista  enlazada
+// Escribe un algoritmo para eliminar los elementos duplicados en una Lista enlazada
 // Ejemplo:
 // Input: 1->2->2->3->4->1
 // Output: 1->2->3->4
