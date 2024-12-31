@@ -2,7 +2,7 @@ package _04_zero_matrix;
 
 
 // Dada una matriz, escribe un algoritmo  para establecer ceros en la fila F y columna C si existe un
-// 0 en la celda F:C
+// 0 en la celda F:C.
  
 // Ejemplo:
 // Input: 2 1 3 0 2
@@ -46,7 +46,7 @@ public class ZeroMatrix {
       }
       
       
-      //COMPRUEBA SI LA PRIMERA COLUMNA CONTIENE  0
+      //COMPRUEBA SI LA PRIMERA COLUMNA CONTIENE 0
       private boolean hasFirstColAnyZero(int[][] matrix) {
         for(int i = 0; i < matrix.length; i++) {
           if(matrix[i][0] == 0) return true;
