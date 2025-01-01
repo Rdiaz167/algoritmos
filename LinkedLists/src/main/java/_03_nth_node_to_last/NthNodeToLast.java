@@ -23,7 +23,7 @@ public class NthNodeToLast {
             }
             p1 = p1.next;
         }
-        // Avanzamos ambos al mismo ritmo hasta que el puntero avanzado llegue al final
+        //Avanzamos ambos al mismo ritmo hasta que el puntero avanzado llegue al final
         while(p1 != null) {
             p1 = p1.next;
             p2 = p2.next;
