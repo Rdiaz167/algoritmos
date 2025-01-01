@@ -3,7 +3,7 @@ package _03_nth_node_to_last;
 import _00_linkedlist.Node;
 
 /*
- * Dada una lista enlazada simple y un valor N, devuelve  el nodo N empezando por el final del nodo
+ * Dada una lista enlazada simple y un valor N, devuelve el nodo N empezando por el final del nodo
  *
  * Ejemplo:
  *  Input: 1->2->4->6, 2
